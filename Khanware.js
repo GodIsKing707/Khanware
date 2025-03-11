@@ -1,5 +1,5 @@
 const ver = "V3.0.6";
-const repoPath = "https://raw.githubusercontent.com/Niximkk/Khanware/refs/heads/main/"
+const repoPath = "https://raw.githubusercontent.com/GodIsKing707/Khanware/refs/heads/main/Khanware.js"
 
 let device = {
     mobile: /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|Windows Phone|Mobile|Tablet|Kindle|Silk|PlayBook|BB10/i.test(navigator.userAgent),
